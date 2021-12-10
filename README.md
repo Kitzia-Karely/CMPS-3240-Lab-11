@@ -198,7 +198,7 @@ Net Memory Bandwidth  182.361 Mbytes/sec:
 | Skip Value | Max | Min | Average | Standard Deviation
 | :--- | :--- | :--- | :--- | :--- |
 | 127 | 226.719 Mbytes/sec | 215.093 Mbytes/sec | 222.296 |   |
-| 128 |                    |                    |         |   |
+| 128 |  220.753 Mbytes/sec |  209.715 Mbytes/sec  |         |   |
 | 251 |                    |                    |         |   |
 | 256 |                    |                    |         |   |
 | 509 |                    |                    |         |   |
