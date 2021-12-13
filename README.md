@@ -2,18 +2,18 @@
 
 | Skip Value | Max | Min | Average | Standard Deviation
 | :--- | :--- | :--- | :--- | :--- |
-| 127 | 226.719 Mbytes/sec | 215.093 Mbytes/sec | 222.296 |   |
-| 128 |  220.753 Mbytes/sec |  209.715 Mbytes/sec  | 196.767 |   |
-| 251 |  220.753 Mbytes/sec | 204.600 Mbytes/sec  |213.794 |   |
-| 256 |  220.753 Mbytes/sec | 209.715 Mbytes/sec | 213.369|   |
-| 509 |  220.753 Mbytes/sec | 209.715 Mbytes/sec| 213.324 |   |
-| 512 | 215.093 Mbytes/sec | 209.715 Mbytes/sec | 211.081|   |
-| 1021 | 174.763 Mbytes/sec | 161.319 Mbytes/sec | 168.999 |   |
-| 1024 |199.729 Mbytes/sec | 190.650 Mbytes/sec | 192.885 |   |
-| 2039 | 190.650 Mbytes/sec | 174.763 Mbytes/sec | 182.814 |   |
-| 2048 | 195.084 Mbytes/sec |182.361 Mbytes/sec| 191.840 |   |
-| 4093 |167.772 Mbytes/sec | 161.319 Mbytes/sec | 165.052 |   |
-| 4096 | 195.084 Mbytes/sec | 182.361 Mbytes/sec | 190.763 |   |
+| 127 | 226.719 Mbytes/sec | 215.093 Mbytes/sec | 222.296 |4.405|
+| 128 |  220.753 Mbytes/sec |  209.715 Mbytes/sec  | 214.244 |3.944|
+| 251 |  220.753 Mbytes/sec | 204.600 Mbytes/sec  |213.794 |4.042|
+| 256 |  220.753 Mbytes/sec | 209.715 Mbytes/sec | 213.369|4.807|
+| 509 |  220.753 Mbytes/sec | 209.715 Mbytes/sec| 213.324 |3.556|
+| 512 | 215.093 Mbytes/sec | 209.715 Mbytes/sec | 211.081|3.295|
+| 1021 | 174.763 Mbytes/sec | 161.319 Mbytes/sec | 168.999 |4.393|
+| 1024 |199.729 Mbytes/sec | 190.650 Mbytes/sec | 192.885 |3.032|
+| 2039 | 190.650 Mbytes/sec | 174.763 Mbytes/sec | 182.814 |4.921|
+| 2048 | 195.084 Mbytes/sec |182.361 Mbytes/sec| 191.840 |4.525|
+| 4093 |167.772 Mbytes/sec | 161.319 Mbytes/sec | 165.052 |2.324|
+| 4096 | 195.084 Mbytes/sec | 182.361 Mbytes/sec | 190.763 |4.801|
 
 
 
